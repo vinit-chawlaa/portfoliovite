@@ -10,7 +10,7 @@ export default defineConfig({
     tailwindcss(),
   ],
 
-  base: "/vite-port",
+  base: "/portfoliovite/", 
 
   server : {
     open : true
